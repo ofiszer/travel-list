@@ -63,6 +63,7 @@ input {
   font-weight: 700;
   font-size: 1.8rem;
   cursor: pointer;
+  text-align: center;
 }
 
 .add-form button {
@@ -89,6 +90,7 @@ input {
   font-size: 1.4rem;
   font-weight: 700;
   margin: 0 0.8rem;
+  justify-content: center;
 }
 
 .list ul {
